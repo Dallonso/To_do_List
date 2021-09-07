@@ -1,19 +1,21 @@
-#**To Do List**
+<h1><b>To Do List</b>
 
-##Bootcamp Santander 2021
+<h2>Bootcamp Santander 2021
 
-###In this code, I used the concepts learned in Bootcamp to create a Task List, simulating the Date and Time setting.
+<h4>In this code, I used the concepts learned in Bootcamp to create a Task List, simulating the Date and Time setting.
 
-**Applied concepts:**
+  Applied concepts:
+  
 - Activities
 - Functions
 - RecyclerView
 - View Binding
 - Themes & Styles
 - Material Design
-- Layouts 
-
-####Author:
-- [Linkedin](https://www.linkedin.com/in/dallonso/)
+- Layouts
+  
+Author: [Linkedin](https://www.linkedin.com/in/dallonso/)
+ 
+  
 
 
